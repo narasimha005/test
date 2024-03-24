@@ -10,7 +10,7 @@ public class DemoApplication {
 	}
 
 public static void test(){
-
+sysout("asfdasd");
 }
 
 }
